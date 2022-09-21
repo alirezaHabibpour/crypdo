@@ -1,7 +1,7 @@
  
 # Crypdo Flutter💙 Demo App
 
-A demo flutter  app for cryptocurrency tratding and wallet balance with send cryptro to contacts ...  
+A demo flutter  app for cryptocurrency trading, wallet balance,send cryptro to contacts and ...  
  
  
 
@@ -18,7 +18,7 @@ A demo flutter  app for cryptocurrency tratding and wallet balance with send cry
 - [GetIt](https://pub.dev/packages/get_it) -  A simple Service Locator for Dart and Flutter projects
 - [Dartz](https://pub.dev/packages/dartz) - Functional programming  library in Dart  
 - [Dio](https://pub.dev/packages/dio) - A powerful Http client for Dart, which supports Interceptors, Global configuration, FormData, Request Cancellation, File downloading, Timeout etc.
-- [rRetrofit](https://pub.dev/packages/retrofit) -  A type conversion dio client generator using source generator   
+- [Retrofit](https://pub.dev/packages/retrofit) -  A type conversion dio client generator using source generator   
 
 <br />
 
